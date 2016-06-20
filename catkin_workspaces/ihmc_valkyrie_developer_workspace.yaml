@@ -2,7 +2,7 @@ repositories:
   ihmc_ros_core:
     type: git
     url: git@github.com:ihmcrobotics/ihmc_ros_core.git
-    version: develop
+    version: stable/legacy
   ihmc_ros_control:
     type: git
     url: git@github.com:ihmcrobotics/ihmc-ros-control.git
