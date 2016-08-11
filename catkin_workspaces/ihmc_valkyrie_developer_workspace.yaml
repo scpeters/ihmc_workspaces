@@ -2,11 +2,11 @@ repositories:
   ihmc_ros_core:
     type: git
     url: https://github.com/ihmcrobotics/ihmc_ros_core.git
-    version: stable/legacy
+    version: develop
   ihmc_ros_control:
     type: git
     url: https://github.com/ihmcrobotics/ihmc-ros-control.git
-    version: stable/legacy
+    version: feature/nasa_quaternion_mod
   ihmc_valkyrie_ros:
     type: git
     url: https://github.com/ihmcrobotics/ihmc_valkyrie_ros.git
