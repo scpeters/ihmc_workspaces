@@ -6,7 +6,7 @@ repositories:
   ihmc_ros_control:
     type: git
     url: https://github.com/ihmcrobotics/ihmc-ros-control.git
-    version: feature/nasa_quaternion_mod
+    version: develop
   ihmc_valkyrie_ros:
     type: git
     url: https://github.com/ihmcrobotics/ihmc_valkyrie_ros.git
